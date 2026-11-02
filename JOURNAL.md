@@ -1,9 +1,9 @@
 ---
 title: "FRAMer"
-github: "https://github.com/wilrak0v/framer"
+github: "https://github.com/wilrak0v/FRAMer"
 description: ""
 created_at: "2026-11-02"
-total_time: "0h"
+total_time: "1h30"
 ---
 
 ## November 2, 2026: Search for components!
